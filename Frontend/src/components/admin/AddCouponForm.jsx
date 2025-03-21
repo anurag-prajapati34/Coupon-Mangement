@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import { CouponContext } from '../../context/couponContext';
+import { CouponContext } from '../../contexts/CouponContext';
 import toast from 'react-hot-toast';
 
 const AddCouponForm = () => {

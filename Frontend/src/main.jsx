@@ -1,7 +1,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { RouterProvider } from 'react-router-dom';
-import { CouponContextProvider } from './context/CouponContext';
+import { CouponContextProvider } from './contexts/CouponContext.jsx';
 import { routes } from './routes/routes.jsx';
 
 import './index.css'; // Moved styles import to the bottom

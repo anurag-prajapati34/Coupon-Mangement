@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react'
 import { useNavigate } from 'react-router-dom';
-import { CouponContext } from '../../context/couponContext';
+import { CouponContext } from '../../contexts/CouponContext';
 import EditCouponForm from './EditCouponForm';
 import toast from 'react-hot-toast';
 
