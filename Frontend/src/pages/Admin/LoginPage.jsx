@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import { CouponContext } from '../../context/couponContext'
+import { CouponContext } from '../../context/CouponContext'
 import { useNavigate } from 'react-router-dom';
 
 const LoginPage = () => {
