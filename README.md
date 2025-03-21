@@ -68,7 +68,12 @@ PORT=5000
 
 
 ### links
-<h3>Live url: <a href="https://coupon-management-u48u.vercel.app/" alt="coupon mangement" /></h3>
+<h3>Live url: https://coupon-management-u48u.vercel.app/</h3>
+
+
+### Social accounts 
+<h3>My linkedin : https://www.linkedin.com/in/anurag-prajapati34/</h3>
+<h3>My Portfolio : https://anurag-prajapati.vercel.app/</h3>
 ```sh
 
 
