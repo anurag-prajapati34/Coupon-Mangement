@@ -12,7 +12,7 @@ This is a **Full-Stack Web Application** that distributes coupons to guest users
 - Coupons are assigned **sequentially without repetition**.
 - Abuse prevention mechanisms:
   - **IP Tracking**: Prevent multiple claims from the same IP within a cooldown period.
-  - **Cookie-Based Tracking**: Restrict claims from the same browser session.
+ 
 - Displays messages for **successful claims or time restrictions**.
 
 #### **Admin Panel**
@@ -36,8 +36,40 @@ This is a **Full-Stack Web Application** that distributes coupons to guest users
 
 ## 🛠️ Project Setup
 
-### 1️⃣ **Clone the Repository**
+###  **Clone the Repository**
 
+git clone https://github.com/anurag-prajapati34/Coupon-Mangement.git
+
+### Backend Setup
+<p>1. cd backend</p>
+<p>2. npm install</p>
+<p>2. npm start</p>
+
+
+
+### Backend Setup
+<p>1. cd backend</p>
+<p>2. npm install</p>
+<p>2. npm start</p>
+<p>3.  create <b>.env</b> file and replace mongodb uri with your original uri,  MONGO_URI=your_mongodb_connection_string
+PORT=5000
+
+</p>
+
+
+
+### Frontend Setup
+<p>1. cd frontend</p>
+<p>2. npm install</p>
+<p>2. npm run dev</p>
+<p>3.  create <b>.env</b> file ,  VITE_SERVER_URL=http://localhost:5000
+</p>
+
+
+
+### links
+<h3>Live url: <a href="https://coupon-management-u48u.vercel.app/" alt="coupon mangement" /></h3>
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
+
+
